@@ -1,0 +1,23 @@
+GameData/
+.build/
+.swiftpm/
+*.xcodeproj/xcuserdata/
+DerivedData/
+.DS_Store
+*.o
+*.d
+
+# Ресурсы оригинальной игры и производные от них
+preview/
+*_preview.png
+*.NGB
+*.COL
+*.DAT
+*.DAN
+*.MV
+*.SAV
+*.WAV
+*.BGI
+
+# Локальные настройки
+.claude/
